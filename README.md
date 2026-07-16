@@ -120,4 +120,3 @@ Python · pandas · matplotlib
 
 ---
 
-*Part of a Data Analytics Internship portfolio — Project 2: Exploratory Data Analysis.*
